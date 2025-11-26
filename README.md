@@ -16,7 +16,6 @@ If you happen to be here from my resume, welcome! I would love to get in touch a
 | Email | `dev@hyperlynx.dev` |
 | Discord | `hyperlynx` |
 
-<img src="https://streak-stats.demolab.com?user=hjake123&theme=dark"/>
 <!--
 **hjake123/hjake123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
