@@ -7,6 +7,9 @@ If you happen to be here from my resume, welcome! I would love to get in touch a
  <a href="https://github.com/hjake123/reactive" target="_blank" rel="noreferrer"><img src="https://github.com/hjake123/reactive/blob/b18be11710f4c1da151d1ee685942ee37df6735c/img/modrinth_banner.png" alt="reactive logo" width="255" height="128"/></a>
  <a href="https://github.com/hjake123/pulsetech" target="_blank" rel="noreferrer"><img src="https://github.com/hjake123/pulsetech/blob/d60f4dcd3207ede3d011f228400867e761fda2aa/pulsetech_preview.png" alt="pulsetech logo" width="255" height="128"/></a>
 </p>
+<p align="center">
+ <img src="https://github.com/hjake123/hjake123/blob/d6c48a31e32059300fbde10b7d05f186ae229930/wip_logo.png" alt="reactive logo" width="255" height="128"/>
+</p>
 
 ## Contact info
 | Platform | Contact |
