@@ -11,20 +11,29 @@ If you happen to be here from my resume, welcome! I would love to get in touch a
  <img src="https://github.com/hjake123/hjake123/blob/d6c48a31e32059300fbde10b7d05f186ae229930/wip_logo.png" alt="reactive logo" width="255" height="128"/>
 </p>
 
-## Tools
-I'm proficient in all of these tools:
-<p>
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/Railly/ColoredBadges/blob/01f2d70cc5f1936e0dcc5e566fa59eb7a95cd870/svg/dev/languages/cpp.svg" alt="c++" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:6px 4px">
+## Skills
+<p align="center">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/godot.svg" alt="godot" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/Railly/ColoredBadges/blob/01f2d70cc5f1936e0dcc5e566fa59eb7a95cd870/svg/dev/languages/cpp.svg" alt="c++" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:6px 4px">
 </p>
 
- 
+<p align="center">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/feyzaboyun/ColoredBadges/blob/b96853483e75411c47000569a25c084a9749c1f6/svg/dev/tools/%20jupyter.svg" alt="jupyter" style="vertical-align:top; margin:6px 4px">
+</p>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hjake123&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
- 
+<p align="center">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/misc/gamedev.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hjake123&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</p> 
 
 ## Contact info
 | Platform | Contact |
