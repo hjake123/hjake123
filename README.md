@@ -11,6 +11,21 @@ If you happen to be here from my resume, welcome! I would love to get in touch a
  <img src="https://github.com/hjake123/hjake123/blob/d6c48a31e32059300fbde10b7d05f186ae229930/wip_logo.png" alt="reactive logo" width="255" height="128"/>
 </p>
 
+## Tools
+I'm proficient in all of these tools:
+<p>
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/Railly/ColoredBadges/blob/01f2d70cc5f1936e0dcc5e566fa59eb7a95cd870/svg/dev/languages/cpp.svg" alt="c++" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:6px 4px">
+</p>
+
+ 
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hjake123&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+ 
+
 ## Contact info
 | Platform | Contact |
 | --- | --- | 
