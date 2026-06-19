@@ -31,9 +31,15 @@ If you happen to be here from my resume, welcome! I would love to get in touch a
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
 </p>
 
+## Github Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hjake123&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hjake123&show_icons=true&locale=en&layout=compact&theme=transparent&hide_rank=true&include_all_commits=true" alt="ovi" />
 </p> 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hjake123&show_icons=true&locale=en&layout=compact&theme=transparent&size_weight=0.7&count_weight=0.3" alt="ovi" />
+</p> 
+
+
 
 ## Contact info
 | Platform | Contact |
