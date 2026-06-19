@@ -32,12 +32,8 @@ If you happen to be here from my resume, welcome! I would love to get in touch a
 </p>
 
 ## Github Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hjake123&show_icons=true&locale=en&layout=compact&theme=transparent&hide_rank=true&include_all_commits=true" alt="ovi" />
-</p> 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hjake123&show_icons=true&locale=en&layout=compact&theme=transparent&size_weight=0.7&count_weight=0.3" alt="ovi" />
-</p> 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 
 
