@@ -18,23 +18,21 @@ If you happen to be here from my resume, welcome! I would love to get in touch a
     <img src="https://github.com/Railly/ColoredBadges/blob/01f2d70cc5f1936e0dcc5e566fa59eb7a95cd870/svg/dev/languages/cpp.svg" alt="c++" style="vertical-align:top; margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:6px 4px">
-</p>
-
-<p align="center">
+    <br>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
     <img src="https://github.com/feyzaboyun/ColoredBadges/blob/b96853483e75411c47000569a25c084a9749c1f6/svg/dev/tools/%20jupyter.svg" alt="jupyter" style="vertical-align:top; margin:6px 4px">
-</p>
-
-<p align="center">
+    <br>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/misc/gamedev.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
 </p>
 
 ## Github Stats
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-
+<p align="center">
+ <img src="https://raw.githubusercontent.com/hjake123/hjake123/e8bd32a24f4418246e40b8a86617c7fe19be9ce2/profile/stats.svg" alt="github stats" style="vertical-align:top; margin:6px 4px">
+ <br>
+ <img src="https://raw.githubusercontent.com/hjake123/hjake123/e8bd32a24f4418246e40b8a86617c7fe19be9ce2/profile/top-langs.svg" alt="github top languages" style="vertical-align:top; margin:6px 4px">
+</p>
 
 
 ## Contact info
