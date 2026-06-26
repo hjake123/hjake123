@@ -1,6 +1,6 @@
 Hello! I'm `hyperlynx`, a freelance software developer with skills in Java, C++, Rust, Python, and a few other languages. 
 
-If you happen to be here from my resume, welcome! I would love to get in touch and discuss any oppotunities you have in mind.
+If you happen to be here from my resume, welcome! I would love to get in touch and discuss any opportunities you have in mind.
 
 ## Projects
 <p align="center">
@@ -28,6 +28,7 @@ If you happen to be here from my resume, welcome! I would love to get in touch a
 </p>
 
 ## Github Stats
+These graphs show summaries of my work across Github. Most (but not all!) of my development work is here, so this is a good summary of the tools I've been using recently, but I do have experience in skills not represented in these graphs as well.
 <p align="center">
  <img src="https://raw.githubusercontent.com/hjake123/hjake123/e8bd32a24f4418246e40b8a86617c7fe19be9ce2/profile/stats.svg" alt="github stats" style="vertical-align:top; margin:6px 4px">
  <br>
