@@ -35,6 +35,15 @@ These graphs show summaries of my work across Github. Most (but not all!) of my 
  <img src="https://raw.githubusercontent.com/hjake123/hjake123/e8bd32a24f4418246e40b8a86617c7fe19be9ce2/profile/top-langs.svg" alt="github top languages" style="vertical-align:top; margin:6px 4px">
 </p>
 
+## Advent of Code
+I regularly participate in the Advent of Code challenge, a coding challenge that occurs each December. I do not always complete every challenge, but I'm reasonably proud of the solutions I have come up with each year. If you're curious to look at them, I keep them as public repos:
+| Year | Language | Repository | Day Reached
+| --- | --- | --- | --- |
+| 2022 | Python | [advent-of-code-2022](https://github.com/hjake123/advent-of-code-2022) | 18 of 25
+| 2023 | C++ | [advent-of-code-2023](https://github.com/hjake123/advent-of-code-2023) | 13 of 25
+| 2024 | Rust | [advent-of-code-2024](https://github.com/hjake123/advent-of-code-2024) | 20 of 25
+| 2025 | C# | [advent-of-code-2025](https://github.com/hjake123/advent-of-code-2025) | 7 of 12
+
 
 ## Contact info
 | Platform | Contact |
