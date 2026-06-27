@@ -51,7 +51,7 @@ Click the big icon below to view a showcase video!
 ---
 ### Godot Dungeon Game
 
-My new game project in Godot! I don't have a complete demo of it yet, but this project has mainly been to explore the process of making my own game, and to get me used to the internals of Godot. I've implemented an inventory, a tile breaking/placing system, and even spacial partitioning (which I later learned had been a premature optimization, since Godot already chunks their physics and lighting... so I've rolled that back), and more. I hope to have a playable demo sometime in the next few weeks, and will add a link here when that's available. If you'd like to see if earlier, let me know!
+My new game project in Godot! I don't have a complete demo of it yet, but this project has mainly been to explore the process of making my own game, and to get me used to the internals of Godot. I've implemented an inventory, a tile breaking/placing system, combat, spacial partitioning (which I later learned had been a premature optimization, since Godot already chunks their physics and lighting... so I've rolled that back), and more. I hope to have a playable demo sometime in the next few weeks, and will add a link here when that's available. If you'd like to see if earlier, let me know!
 
 <img src="https://github.com/hjake123/hjake123/blob/d6c48a31e32059300fbde10b7d05f186ae229930/wip_logo.png" alt="todo game logo" width="255" height="128"/>
 
