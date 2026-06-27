@@ -57,6 +57,20 @@ My new game project in Godot! I don't have a complete demo of it yet, but this p
 
 `Scale: ~4800 lines of GDScript at time of writing`
 
+---
+### Pharis Fellowship Research
+
+In 2021, I was a part of the University of Houston Pharis Fellowship. I chose to check for "over-representation" of LGBTQ persons inside of federal and state prisons, as well as the difference in mental health outcome compared to cisgender heterosexual inmates. The results of this research were presented at a local event, and can now be viewed here.
+<details>
+
+<summary>View poster (might be large)</summary>
+
+<img src="https://github.com/hjake123/pharis-2021/blob/679bdecda2a36d421bee5aac0aff4cdce119153e/poster.png">
+
+</details>
+
+[Repository](https://github.com/hjake123/pharis-2021)
+
 ## Github Stats
 These graphs show summaries of my work across Github. Most (but not all!) of my development work is here, so this is a good summary of the tools I've been using recently, but I do have experience in skills not represented in these graphs as well.
 <p align="center">
