@@ -67,12 +67,12 @@ These graphs show summaries of my work across Github. Most (but not all!) of my 
 
 ## Advent of Code
 I regularly participate in the Advent of Code challenge, a coding challenge that occurs each December. I do not always complete every challenge, but I'm reasonably proud of the solutions I have come up with each year. If you're curious to look at them, I keep them as public repos:
-| Year | Language | Repository | Day Reached
+| Year | Language | Repository | Stars
 | --- | --- | --- | --- |
-| 2022 | Python | [advent-of-code-2022](https://github.com/hjake123/advent-of-code-2022) | 18 of 25
-| 2023 | C++ | [advent-of-code-2023](https://github.com/hjake123/advent-of-code-2023) | 13 of 25
-| 2024 | Rust | [advent-of-code-2024](https://github.com/hjake123/advent-of-code-2024) | 20 of 25
-| 2025 | C# | [advent-of-code-2025](https://github.com/hjake123/advent-of-code-2025) | 7 of 12
+| 2022 | Python | [advent-of-code-2022](https://github.com/hjake123/advent-of-code-2022) | 35 of 50
+| 2023 | C++ | [advent-of-code-2023](https://github.com/hjake123/advent-of-code-2023) | 23 of 50
+| 2024 | Rust | [advent-of-code-2024](https://github.com/hjake123/advent-of-code-2024) | 39 of 50
+| 2025 | C# | [advent-of-code-2025](https://github.com/hjake123/advent-of-code-2025) | 14 of 24
 
 
 ## Contact info
