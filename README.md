@@ -55,7 +55,7 @@ My new game project in Godot! I don't have a complete demo of it yet, but this p
 
 <img src="https://github.com/hjake123/hjake123/blob/d6c48a31e32059300fbde10b7d05f186ae229930/wip_logo.png" alt="todo game logo" width="255" height="128"/>
 
-`Scale: ~4800 lines of GDScript at time of writing`
+`Scale: ~3600 lines of GDScript at time of writing`
 
 ---
 ### Pharis Fellowship Research
