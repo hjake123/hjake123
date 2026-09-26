@@ -19,6 +19,18 @@ If you happen to be here from my resume, welcome! I would love to get in touch a
 </p>
 
 ## Projects
+
+### Dungeon Break
+
+My new indie game! Explore a strange dungeon deep below the earth, defeat dangerous enemies using a unique charge-attack, then break the dungeon down for parts to upgrade your equipment! Everything about this project is completely by my own making (including the art) but I think it came out quite well, especially for a first game!
+
+<a href="https://hyperlynx01.itch.io/dungeon-break" target="_blank">
+    <img src="https://github.com/hjake123/hjake123/blob/ae82a187c6bea41380242a8582b55bcd89229325/dungeon_break_full.png" alt="Dungeon Break lohgo" width="400"/>
+</a>
+
+`Scale: ~3800 lines of GDScript at time of writing`
+
+---
 ### Reactive Alchemy
 
 My flagship mod project, and the one I've been working on, off and on, since 2022. Discover a system of elemental Powers, collect them in your Crucible, and uncover the hidden Reactions between them! Over the years, I've released many major updates and many more minor improvements and bug patches. In the process of developing this, I've learned quite a bit about structuring a large project, documenting it, fixing it when things break, and iterating on core systems to add new features.
@@ -47,15 +59,6 @@ Click the big icon below to view a showcase video!
 [Download and Info Page](https://www.curseforge.com/minecraft/mc-mods/pulsetech) | [Repositiory](https://github.com/hjake123/pulsetech)
 
 `Scale: ~11600 lines of Java at time of writing`
-
----
-### Godot Dungeon Game
-
-My new game project in Godot! I don't have a complete demo of it yet, but this project has mainly been to explore the process of making my own game, and to get me used to the internals of Godot. I've implemented an inventory, a tile breaking/placing system, combat, spacial partitioning (which I later learned had been a premature optimization, since Godot already chunks their physics and lighting... so I've rolled that back), and more. I hope to have a playable demo sometime in the next few weeks, and will add a link here when that's available. If you'd like to see if earlier, let me know!
-
-<img src="https://github.com/hjake123/hjake123/blob/d6c48a31e32059300fbde10b7d05f186ae229930/wip_logo.png" alt="todo game logo" width="255" height="128"/>
-
-`Scale: ~3600 lines of GDScript at time of writing`
 
 ---
 ### Pharis Fellowship Research
